@@ -8,10 +8,6 @@ html {
   scroll-behavior: smooth;
 }
 
-body {
-  font-family: Raleway, Arial, sans-serif;
-}
-
 .header {
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
@@ -163,7 +159,7 @@ body {
 .bet-button {
   width: 256px;
   height: 51px;
-  font-family: inherit;
+  font-family: Raleway;
   font-size: 22px;
   font-weight: 400;
   line-height: 26px;
